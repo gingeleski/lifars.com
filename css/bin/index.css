@@ -1,0 +1,97 @@
+#tagcloud {
+  padding: 1.5rem 17% 0 17%;
+  text-align: center;
+  font-weight: bolder;
+  line-height: 1.5em;
+}
+
+#tag01 {
+  font-family: Courier;
+  font-size: 1.7rem;
+  color: #0f414a;
+}
+
+#tag02 {
+  font-family: Arial; 
+  font-size: 2.7rem;
+  color: #a2b0b3;
+}
+
+#tag03 {
+  font-family: Arial; 
+  font-size: 2.1rem;
+  color: #337ab7;
+}
+
+#tag04 {
+  font-family: Verdana; 
+  font-size: 1.3rem;
+  color: #a0a3a3;
+}
+
+#tag05 {
+  font-family: Helvetica; 
+  font-size: 1.9rem;
+  color: #434545;
+}
+
+#tag06 {
+  font-family: Helvetica; 
+  font-size: 2.4rem;
+  color: #a0a0a0;
+}
+
+#tag07 {
+  font-family: Verdana; 
+  font-size: 1.3rem;
+  color: #0f414a;
+}
+
+#tag08 {
+  font-family: Times New Roman; 
+  font-size: 2rem;
+  color: #2c91a3;
+}
+
+#tag09 {
+  font-family: Verdana; 
+  font-size: 1.3rem;
+  color: #a0a0a0;
+}
+
+#tag10 {
+  font-family: Verdana; 
+  font-size: 1.3rem;
+  color: #a0a0a0;
+}
+
+#tag11 {
+  font-family: Courier; 
+  font-size: 2.1rem;
+  color: #4c5c5e;
+}
+
+#tag12 {
+  font-family: Verdana;
+  font-size: 1.5rem;
+  color: #337ab7;
+}
+
+#tag01:hover, #tag02:hover, #tag03:hover, #tag04:hover, #tag05:hover,
+#tag06:hover, #tag07:hover, #tag08:hover, #tag09:hover, #tag10:hover,
+#tag11:hover, #tag12:hover {
+    color: #a33e2c;
+    text-decoration: none;
+}
+
+#summary {
+  padding: 3.1rem 17% 2.5rem 17%;
+  font-family: "Roboto Slab";
+  font-size: 1.7rem;
+  text-align: center;
+}
+
+#blog-link {
+  text-decoration: none;
+  color: #333;
+}

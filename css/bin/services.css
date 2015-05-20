@@ -1,0 +1,30 @@
+p {
+    text-align: left;
+}
+
+h4, .read-more {
+    text-align: center;
+}
+
+h4 {
+    padding-bottom: 3%;
+}
+
+.read-more {
+    padding-bottom: 10%;
+}
+
+#info-blocks {
+    padding-top: 1.5rem;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+a {
+    color: #333;
+}
+
+a:hover {
+    color: #333;
+    text-decoration: none;
+}
