@@ -1,8 +1,9 @@
 # Lifars.com Redesign
-This is a new take on the Lifars LLC website. My issues with their present site,
-at the time of this redesign, are that it looks fairly outdated and is not
-responsive. The blog portion at least loads that default Wordpress mobile theme
-if you come at it from your phone.
+This is a new take on [the Lifars LLC website](https://lifars.com). My issues
+with their present site, at the time of this redesign, are that it looks fairly
+outdated and is not responsive. [The blog portion](http://blog.lifars.com) at
+least loads that default Wordpress mobile theme if you come at it from your
+phone.
 
 Under this version, everything's a clean design that scales. It's not yet
 hooked up to their blog (Wordpress). And the homepage feeds for press and
