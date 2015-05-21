@@ -1,0 +1,27 @@
+.container {
+    padding-top: 1.5rem;
+}
+
+#subtitles {
+    text-align: center;
+    padding-top: 1.1rem;
+    padding-bottom: 4%;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.col-md-12 {
+    padding: 0 10% 3% 10%;
+}
+
+p {
+    font-size: 1.5rem;
+    padding-bottom: 1%;
+}
+
+.bolded {
+    font-weight: bold;
+    font-family: sans-serif;
+}
