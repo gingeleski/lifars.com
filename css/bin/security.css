@@ -1,0 +1,12 @@
+.container {
+    padding-top: 1.5rem;
+}
+
+#subtitles {
+    text-align: center;
+    padding-top: 1.1rem;
+}
+
+a:hover {
+    text-decoration: none;
+}
