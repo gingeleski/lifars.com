@@ -38,7 +38,16 @@ ul.nav a {
 }
 
 ul.nav a:hover {
-  color: #708488 !important;
+  color: #c6cecf !important;
+}
+
+.navbar-nav > .active > a {
+    color: #65777a !important;
+    background-color: transparent !important;
+}
+
+.navbar-nav > .active > a:hover {
+    color: #65777a !important;
 }
 
 .icon-bar {
@@ -96,12 +105,30 @@ p {
   font-family: "Roboto Slab";
 }
 
-footer {
-  background: #113238;
+/* Below has to do with the sticky footer
+-------------------------------------------------- */
+
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+/* Wrapper for page content to push down footer */
+/* This includes navbar, then for page content do a container */
+#wrap {
+  min-height: 100%;
+  height: auto;
+  margin: 0 auto -10rem; /* Negative indent by footer height */
+  padding: 0 0 10rem; /* Negative indent by footer height */
+}
+
+#footer {
+  height: 10rem; /* Footer height */
+  background-color: #113238;
   width: 100%;
   padding: 2rem 4.7% 2rem 4.7%;
   color: #fff;
-  position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
