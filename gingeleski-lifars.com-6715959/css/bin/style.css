@@ -1,0 +1,140 @@
+.navbar {
+  color: #113238;
+  background-color: #113238;
+  padding-left: 3.5%;
+  padding-right: 3.5%;
+}
+
+.navbar-brand {
+  color: #fff !important;
+  font-size: 4rem;
+  font-family: "Roboto", Corbel, Avenir, "Lucida Grande", "Lucida Sans", sans-serif;
+  font-weight: 400;
+  padding-top: 2.5rem;
+  padding-bottom: 4.4rem;
+}
+
+.footer-brand {
+  color: #fff;
+  font-family: "Roboto", Corbel, Avenir, "Lucida Grande", "Lucida Sans", sans-serif;
+  font-size: 2rem;
+}
+
+.copyright a {
+  color: #fff;
+}
+
+.footer-brand:hover, .copyright a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+ul.nav a {
+  color: #fff !important;
+  text-transform: uppercase;
+  font-family: "Roboto", Corbel, Avenir, "Lucida Grande", "Lucida Sans", sans-serif;
+  font-size: 1.3rem;
+  padding-top: 2.5rem;
+}
+
+ul.nav a:hover {
+  color: #c6cecf !important;
+}
+
+.navbar-nav > .active > a {
+    color: #65777a !important;
+    background-color: transparent !important;
+}
+
+.navbar-nav > .active > a:hover {
+    color: #65777a !important;
+}
+
+.icon-bar {
+  background-color: #fff !important;
+}
+
+.navbar-toggle {
+  border: none;
+  background: transparent !important;
+  margin-top: 2rem;
+}
+
+.navbar-toggle:hover {
+  background: transparent !important;
+}
+
+.navbar-toggle .icon-bar {
+  width: 22px;
+  transition: all 0.2s;
+}
+
+.navbar-toggle .top-bar {
+  transform: rotate(45deg);
+  transform-origin: 10% 10%;
+}
+
+.navbar-toggle .middle-bar {
+  opacity: 0;
+}
+
+.navbar-toggle .bottom-bar {
+  transform: rotate(-45deg);
+  transform-origin: 10% 90%;
+}
+
+.navbar-toggle.collapsed .top-bar {
+  transform: rotate(0);
+}
+
+.navbar-toggle.collapsed .middle-bar {
+  opacity: 1;
+}
+
+.navbar-toggle.collapsed .bottom-bar {
+  transform: rotate(0);
+}
+
+h4 {
+  text-transform: uppercase;
+  text-align: center;
+  font-family: "Roboto";
+}
+
+p {
+  font-family: "Roboto Slab";
+}
+
+/* Below has to do with the sticky footer
+-------------------------------------------------- */
+
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+/* Wrapper for page content to push down footer */
+/* This includes navbar, then for page content do a container */
+#wrap {
+  min-height: 100%;
+  height: auto;
+  margin: 0 auto -10rem; /* Negative indent by footer height */
+  padding: 0 0 10rem; /* Negative indent by footer height */
+}
+
+#footer {
+  height: 10rem; /* Footer height */
+  background-color: #113238;
+  width: 100%;
+  padding: 2rem 4.7% 2rem 4.7%;
+  color: #fff;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+#social-bar > a > img {
+  height: 4rem;
+  width: 4rem;
+}

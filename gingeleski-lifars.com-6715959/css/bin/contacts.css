@@ -1,0 +1,17 @@
+#contact-block {
+    padding-top: 1.5rem;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+#office-data {
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+form {
+    padding: 2rem 20% 4rem 20%;
+    text-align: center;
+}
