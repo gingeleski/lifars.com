@@ -12,3 +12,5 @@ blog posts have not been implemented at this time.
 It's Bootstrap 3. There's a bit of Ruby (a rakefile) that can do all the
 pre-production stuff like minification, etc. but everything runs static out of
 the box.
+
+[Check out the Github Page for this.](https://gingeleski.github.io/lifars.com)
