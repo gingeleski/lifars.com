@@ -1,4 +1,7 @@
 # Lifars.com Redesign
+
+**UPDATE: In the summer of 2015, I redid the LIFARS site for real. As of 4/2/2016, what's at [LIFARS.com](https://lifars.com) is mostly my work. I am a proud Wordpress dad.**
+
 This is a new take on [the Lifars LLC website](https://lifars.com). My issues
 with their present site, at the time of this redesign, are that it looks fairly
 outdated and is not responsive. [The blog portion](http://blog.lifars.com) at
